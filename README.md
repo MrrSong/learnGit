@@ -1,2 +1,2 @@
 # learnGit
-learn git
+learn git -- version 1
